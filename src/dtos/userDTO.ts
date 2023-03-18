@@ -1,4 +1,4 @@
-import { UsersModel } from "../types";
+import { UsersDB } from "../types";
 
 export interface SignupInputDTO {
     name: unknown,
