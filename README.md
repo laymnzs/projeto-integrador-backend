@@ -11,7 +11,7 @@
 # Descurtir. 👎
 
 
- **LINK DO REPOSITÓRIO FRONT-END** 
+ **LINK DO REPOSITÓRIO FRONT-END:** 
 https://github.com/laymnzs/projeto-integrador-frontend
 
 
